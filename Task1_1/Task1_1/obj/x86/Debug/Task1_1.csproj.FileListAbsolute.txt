@@ -1,0 +1,34 @@
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Properties.Resources.resources
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\bin\Debug\Task1_1.exe
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\bin\Debug\Task1_1.pdb
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.exe
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.pdb
+D:\Учеба\Задачи 4 курс, 1 семестр\ВМ\Задача1_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Form1.resources
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.exe
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.pdb
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\bin\Debug\Task1_1.exe
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\bin\Debug\Task1_1.pdb
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Form1.resources
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Properties.Resources.resources
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Мои документы\Задачи\4 курс\1 семестр\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.exe
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.pdb
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\bin\Debug\Task1_1.exe
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\bin\Debug\Task1_1.pdb
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Form1.resources
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Properties.Resources.resources
+C:\Users\Alexandr\Downloads\ВМ\Задача 1\Temp\Task1_1\Task1_1\obj\x86\Debug\Task1_1.csproj.GenerateResource.Cache
+D:\Вычмат\Task_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.exe
+D:\Вычмат\Task_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.pdb
+D:\Вычмат\Task_1\Task1_1\Task1_1\bin\Debug\Task1_1.exe
+D:\Вычмат\Task_1\Task1_1\Task1_1\bin\Debug\Task1_1.pdb
+D:\Вычмат\Task_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.csprojResolveAssemblyReference.cache
+D:\Вычмат\Task_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Form1.resources
+D:\Вычмат\Task_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.Properties.Resources.resources
+D:\Вычмат\Task_1\Task1_1\Task1_1\obj\x86\Debug\Task1_1.csproj.GenerateResource.Cache
